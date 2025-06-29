@@ -1,9 +1,18 @@
 [
   {
-    "id": "fa9d64a6-fb61-482a-9c96-f5557c7ad676",
-    "title": "Interview with TCS",
-    "description": "Technical round at 4PM",
-    "start_time": "2025-06-29T16:00:00",
-    "end_time": "2025-06-29T17:00:00"
+    "id": "2adc1beb-462b-4892-961e-21de8104c693",
+    "title": "Team Meeting",
+    "description": "Discuss project status",
+    "start_time": "2025-06-28T21:00:00",
+    "end_time": "2025-06-28T22:00:00",
+    "recurring": "weekly"
+  },
+  {
+    "id": "cf258efa-5391-4ee4-89de-b0aa0e15aaef",
+    "title": "Attendance",
+    "description": "Make yourself present everyday",
+    "start_time": "2025-06-30T09:00:00",
+    "end_time": "2025-06-30T17:00:00",
+    "recurring": "daily"
   }
 ]
