@@ -14,5 +14,13 @@
     "start_time": "2025-06-30T09:00:00",
     "end_time": "2025-06-30T17:00:00",
     "recurring": "daily"
+  },
+  {
+    "id": "a64dbf7c-71fa-4f9d-bb7f-5b05056087e7",
+    "title": "Test Event",
+    "description": "Pytest check",
+    "start_time": "2025-07-01T10:00:00",
+    "end_time": "2025-07-01T11:00:00",
+    "recurring": null
   }
 ]
